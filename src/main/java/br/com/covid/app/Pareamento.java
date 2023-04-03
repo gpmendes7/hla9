@@ -22,7 +22,7 @@ import com.opencsv.CSVWriter;
 
 public class Pareamento {
 	
-	private final static int TAMANHO_PAREAMENTO = 3;
+	private final static int TAMANHO_PAREAMENTO = 5;
 	private final static int INDICE_RACA = 5;
 	private final static int INDICE_SEXO = 4;
 	private final static int INDICE_REGIAO = 9;
